@@ -1,6 +1,6 @@
 def hello
   p "hello, GitHub Desktop."
-  hey
+  hey say hello
 end
 
 hello
